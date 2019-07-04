@@ -1,0 +1,5 @@
+.idea/
+pyu-data/
+keypack.pyu
+**/__pycache__
+.pyupdater/
