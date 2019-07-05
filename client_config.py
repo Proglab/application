@@ -4,4 +4,4 @@ class ClientConfig(object):
     COMPANY_NAME = 'Touch Agency'
     HTTP_TIMEOUT = 30
     MAX_DOWNLOAD_RETRIES = 3
-    UPDATE_URLS = ['https://apiselssl.touch-agency.net/application/']
+    UPDATE_URLS = ['https://github.com/Proglab/application/releases']
